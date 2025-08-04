@@ -20,7 +20,7 @@ A React application that generates tech industry buzzwords and phrases. Perfect 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/buzzword-gen-v3.git
+git clone https://github.com/freddybihozagara/buzzword-gen.git
 cd buzzword-gen-v3
 ```
 
